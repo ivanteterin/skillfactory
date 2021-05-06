@@ -1,0 +1,15 @@
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-br.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-cz.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-da.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-de.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-es.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-fr.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-hu.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-it.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-jp.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-pl.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-ru.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs-nl.html
+https://www.chiark.greenend.org.uk/~sgtatham/bugs.html
