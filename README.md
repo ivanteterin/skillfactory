@@ -14,8 +14,8 @@ https://alvinalexander.com/linux-unix/how-use-scp-without-password-backups-copy/
 
 Есть возможность запуска команд не из crontab:
 На зеркале:
-make build-send - сборка и отправка контейнера по scp
-make sync - обновление статей
+* make build-send - сборка и отправка контейнера по scp
+* make sync - обновление статей
 На сервере:
-make stop-container - остановка контейнера со статьями
-make deploy - запуск контейнера со статьями
+* make stop-container - остановка контейнера со статьями
+* make deploy - запуск контейнера со статьями
