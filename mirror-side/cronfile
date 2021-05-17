@@ -1,0 +1,1 @@
+45 3 * * 6 make sync && make build-send
