@@ -16,6 +16,7 @@ https://alvinalexander.com/linux-unix/how-use-scp-without-password-backups-copy/
 На зеркале:
 * make build-send - сборка и отправка контейнера по scp
 * make sync - обновление статей
+
 На сервере:
 * make stop-container - остановка контейнера со статьями
 * make deploy - запуск контейнера со статьями
